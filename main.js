@@ -164,7 +164,17 @@
 
 
 // ejericio 12:
-
+// for (let i = 1; i <= 100; i++) {
+//     if (i % 3 === 0 && i % 5 === 0) {
+//         console.log("FizzBuzz");
+//     } else if (i % 3 === 0) {
+//         console.log("Fizz");
+//     } else if (i % 5 === 0) {
+//         console.log("Buzz");
+//     } else {
+//         console.log(i);
+//     }
+// }
 
 
 
@@ -224,3 +234,31 @@
 // console.log("Tiene un total de " + cartasUnicas.length + " cartas unicas");
 
 
+
+// // ejericio 17:
+
+// ejericio 18:
+
+
+
+
+
+// ejericio 19:
+// let numeros = [];
+// let numero;
+// 100
+// do {
+//     numero = Number(prompt("Ingresa los numero que deseas guardar. (Solo ingresa 0 para guardar los numeros):"));
+
+//     if (numero !== 0) {
+//         numeros.push(numero);
+//     }
+// } while (numero !== 0);
+
+// alert("Números capturados: " + numeros);
+// console.log("Números capturados:", numeros);
+
+
+
+
+// ejericio 20:
